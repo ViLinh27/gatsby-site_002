@@ -1,2 +1,2 @@
-# gatsby-site_001
+# gatsby-site_002
 test out Gatsby from scratch
